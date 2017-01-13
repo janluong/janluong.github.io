@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<style="color:red">Welcome!</style>
+<h1 style="color:red">Welcome!</h1>
 
 You can use the [editor on GitHub](https://github.com/janluong/janluong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

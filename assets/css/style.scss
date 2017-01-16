@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+section#main_content{
+	color: #000000;
+}
+
 footer{
-	color: blue;
+	color: #000000;
 	text-align: center;
 }
 
@@ -22,10 +26,6 @@ body{
 
 .inner{
 	width: 763px;
-}
-
-h3{
-	color: orange;
 }
 
 #jekyll-themes{

@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header{
+	font: 'Chivo';
+}
+
 section#main_content{
 	color: #000000;
 }

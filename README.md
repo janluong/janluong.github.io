@@ -18,7 +18,9 @@ Janice enjoys fitness and is an avid weight lifter. She also takes joy in watchi
 
 ## Projects
 
-[Analyzing Lehman Baseball Database](https://janluong.github.io/STA-141B-Project/)
+[Lehman Baseball](https://janluong.github.io/STA-141B-Project/): Analyzed Lehman 2015 Baseball database using SQLite in Python
+[Internet Movie Base (IMDB)](https://github.com/janluong/Statistical-Computing-Assignment-5): Analyzed IMDB database using SQLite in R
+[Stack Overflow](https://github.com/janluong/Statistical-Computing-Assignment-6): Web scraped Stack Overflow in R and analyzed the data
 
 ## Other Websites
 

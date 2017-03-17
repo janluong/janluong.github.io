@@ -21,34 +21,13 @@ Janice enjoys fitness and is an avid weight lifter. She also takes joy in watchi
 [Lehman Baseball](https://janluong.github.io/STA-141B-Project/): Analyzed Lehman 2015 Baseball database using SQLite in Python <br>
 [Internet Movie Base (IMDB)](https://github.com/janluong/Statistical-Computing-Assignment-5): Analyzed IMDB database using SQLite in R <br>
 [Stack Overflow](https://github.com/janluong/Statistical-Computing-Assignment-6): Web scraped Stack Overflow in R and analyzed the data <br>
-[]
+[City & County of San Francisco](http://janice-luong.com/sftransport/): A sample of data visualization using HTML and basic CSS <br>
 
 ## Other Websites
 
 [Website](http://janice-luong.com/) <br>
 [Linkedin](http://linkedin.com/in/luongjanice)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 Raw code, click [here](https://janluong.github.io/NEW.html).
 

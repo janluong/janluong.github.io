@@ -16,9 +16,13 @@ Today, Janice is assisting Professor Delmar Larsen with editing Statistics Libre
 
 Janice enjoys fitness and is an avid weight lifter. She also takes joy in watching television and spending leisurely time with her family. 
 
-##Projects
+## Projects
 
 [Analyzing Lehman Baseball Database](https://janluong.github.io/STA-141B-Project/)
+
+## Other Websites
+
+[Linkedin](http://linkedin.com/in/luongjanice)
 
 ### Markdown
 

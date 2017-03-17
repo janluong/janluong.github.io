@@ -19,9 +19,11 @@ Janice enjoys fitness and is an avid weight lifter. She also takes joy in watchi
 ## Projects
 
 [Lehman Baseball](https://janluong.github.io/STA-141B-Project/): Analyzed Lehman 2015 Baseball database using SQLite in Python <br>
+[City & County of San Francisco](http://janice-luong.com/sftransport/): A sample of data visualization using JavaScript, HTML and basic CSS <br>
 [Internet Movie Base (IMDB)](https://github.com/janluong/Statistical-Computing-Assignment-5): Analyzed IMDB database using SQLite in R <br>
 [Stack Overflow](https://github.com/janluong/Statistical-Computing-Assignment-6): Web scraped Stack Overflow in R and analyzed the data <br>
-[City & County of San Francisco](http://janice-luong.com/sftransport/): A sample of data visualization using HTML and basic CSS <br>
+[USDA](https://github.com/janluong/STA-141B-Asmt-3-US-Department-of-Agriculture/): Analyzed data from USDA. Grabbed all files ending in .csv and took only certain rows in each file and combined them into one dataframe. Analyzed the dataframe in Python and supported answers with plots. <br>
+[Web Scrapped USDA](https://github.com/janluong/STA-141B-Asmt-4-Web-Scraped-USDA): Web scrapped USDA and combined data from [USDA](https://github.com/janluong/STA-141B-Asmt-3-US-Department-of-Agriculture/) and further analyzed data in Python.
 
 ## Other Websites
 

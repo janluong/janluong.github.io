@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1{
+	font-family: "Helvetica";
+}
+
+section#main_content{
+	color: #000000;
+}
+
+footer{
+	color: #000000;
+	text-align: center;
+}
+
+	footer #view-button{
+		display: inline-block;
+	}
+
+body{
+	background: linear-gradient(#87e687, #ffffff);
+}
+
+#container {
+	background: none;
+}
+
+.inner{
+	width: 763px;
+}
+
+#jekyll-themes{
+	text-decoration: underline;
+}

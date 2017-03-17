@@ -2,7 +2,7 @@
 
 ## About Me
 
-Janice Luong is a fourth-year undergraduate student at the University of California, Davis, majoring in Applied Statistics with an emphasis in Economics. She is anticipated to graduate in June 2017.  ![picture_me]
+Janice Luong is a fourth-year undergraduate student at the University of California, Davis, majoring in Applied Statistics with an emphasis in Economics. She is anticipated to graduate in June 2017.  <img style="float:right; width:200px" src="/assets/img/janice-photo.jpg">
 
 Starting September 2017, Janice will be attending graduate school for her Master of Science in Statistics at the California State University, East Bay. Prior to attending UC Davis, Janice attended City College of San Francisco, where she received her certificate in General Education. At CCSF, she held several positions, including as a statistics tutor, programming tutor, and as a teacher assistant for two instructors from CCSF’s Computer Science Department. She tutored elementary statistics, introduction to C++ and Python.
 

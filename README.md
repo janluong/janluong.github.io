@@ -29,3 +29,7 @@ Janice enjoys fitness and is an avid weight lifter. She also takes joy in watchi
 
 [Website](http://janice-luong.com/) <br>
 [Linkedin](http://linkedin.com/in/luongjanice)
+
+## Contact Me
+
+Email: janice@janice-luong.com
